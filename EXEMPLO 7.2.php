@@ -8,10 +8,10 @@
          $maioridade=18;
          if($idade>=$maioridade)
             {
-	echo("<br> <b> $idade anos, você ja é maior de idade.</b>");
+	echo("<br> <b> $idade anos, vocÃª ja Ã© maior de idade.</b>");
             }else
                {
-                 echo("<br><b> $idade anos, você não é maior de idade.</b>");
+                 echo("<br><b> $idade anos, vocÃª nÃ£o Ã© maior de idade.</b>");
               }
      ?>
    </body>
