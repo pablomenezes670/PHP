@@ -11,13 +11,13 @@ case 5:
 echo "finalmente Sexta";
 break;
 case 6:
-echo"super s·bado";
+echo"super s√°bado";
 break;
 case 0;
 echo"domingo sonolento";
 break;
 case 2;
-echo"Aula de ProgramaÁ„o";
+echo"Aula de Programa√ß√£o";
 break;
 default;
 echo"Estou esperando Final de Semana";
