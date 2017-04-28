@@ -6,10 +6,10 @@
   <?php
  $opc=2;
 if ($opc==1){
-echo("<br><b> Opção escolhida 1 </b>");
+echo("<br><b> OpÃ§Ã£o escolhida 1 </b>");
 }
 if ($opc==2){
-echo("<br><b> Opção escolhida 2 </b>");
+echo("<br><b> OpÃ§Ã£o escolhida 2 </b>");
 }
 ?>
 </BODY>
