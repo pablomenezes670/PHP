@@ -8,7 +8,7 @@
 function testeLocal(){
 $a=25;
 }
-echo"<h1>Vari·vel Local</h1>";
+echo"<h1>Vari√°vel Local</h1>";
 testeLocal();
 echo $a=25;
 ?>
