@@ -8,7 +8,7 @@
 function soma($n1,$n2){
 return $n1+$n2;
 } function imprimir(){
-return"O resultado dá soma é:";
+return"O resultado dÃ¡ soma Ã©:";
 }
 echo imprimir().soma(115,30);
 ?>
