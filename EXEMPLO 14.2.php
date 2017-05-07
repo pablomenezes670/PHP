@@ -9,10 +9,10 @@ function testeGlobal(){
 global $a;
 $a=25;
 }
-echo"<h1>vari·vel Global</h1>";
+echo"<h1>vari√°vel Global</h1>";
 $a=0;
 testeGlobal();
-echo"Valor d· Vari·vel a = $a";
+echo"Valor d√° Vari√°vel a = $a";
 ?>
 
 </body>
