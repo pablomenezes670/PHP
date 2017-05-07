@@ -8,9 +8,9 @@
 function testeStatic(){
 static $a=0;
 $a += 25;
-echo "Valor d· Vari·vel a = $a <br>";
+echo "Valor d√° Vari√°vel a = $a <br>";
 }
-echo"<h1>Vari·vel est·tica</h1>";
+echo"<h1>Vari√°vel est√°tica</h1>";
 testeStatic();
 testeStatic();
 testeStatic();
