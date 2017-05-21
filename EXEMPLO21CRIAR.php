@@ -2,5 +2,5 @@
 session_start();
 $var='aluno';
 $_SESSION['login']=$var;
-echo "<a href='exemplo21_Testar.php'>testa sessão";
+echo "<a href='exemplo21_Testar.php'>testa sessÃ£o";
 ?>
